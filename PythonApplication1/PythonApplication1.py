@@ -38,5 +38,8 @@ for i in a.items():
 #    }
 #result2 = collection2.insert(iff)
 #print(result2
-def carl:
+def carl()：
+    pass
+
+def a():
     pass
